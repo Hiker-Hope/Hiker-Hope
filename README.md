@@ -8,7 +8,7 @@ I can work in modes “We want this feature working in production tomorrow” an
 
 You can find more on my experinece on [LinkedIn](https://www.linkedin.com/in/nadezhda-lkn/) and contact me there
 
-Here're some technologies I mainly work with (also just adding it in here to liven the page up a bit):
+Here're some technologies I mainly work with (_also just adding them in here to liven the page up a bit_):
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
