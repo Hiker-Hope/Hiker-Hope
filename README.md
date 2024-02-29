@@ -25,4 +25,5 @@ Other daily tools:
 ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion)
 ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=Atlassian&logoColor=white)
