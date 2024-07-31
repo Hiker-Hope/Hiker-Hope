@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Nadezhda and I’m a frontend dev with quite a variety of commercial experience of 4+ years.
+My name's Nadezhda and I’m a frontend dev with quite a variety of commercial experience of 5+ years.
 
 Having worked as a developer in Yandex and Uchi.ru - content creation and edtech fields - fell in love with coding interesting and challenging tasks. 
 
