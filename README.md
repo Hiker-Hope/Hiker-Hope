@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-My name's Nadezhda and I’m a frontend dev with quite a variety of commercial experience of 6+ years.
+My name's Nadezhda and I am a frontend developer with extensive commercial experience spanning 7+ years (React + Typescript apps). 
 
-Having worked as a developer in Yandex, Uchi.ru and Rarible - content creation and edtech fields - fell in love with coding interesting and challenging tasks. 
+I have a background of working in cross-functional teams in startup companies with a fast feature delivery pace as well as big projects with a culture of thorough working through technological solutions.
 
-I can work in modes “We want this feature working in production tomorrow” and “We have time to build a well-thought detailed app, let's make it perfect”. 
+I always take full ownership of the project in every stage of development employing the best practices to bring the most value to the product. 
+
+I have constantly demonstrated eagerness to take on new challenges and explore, having launched products from a content creation/feed platform to edtech games and web3 apps.
+
 
 You can find more on my experinece on [LinkedIn](https://www.linkedin.com/in/nadezhda-lkn/) and contact me there
 
@@ -13,6 +16,7 @@ Here're some technologies I mainly work with (_also just adding them in here to 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white)
