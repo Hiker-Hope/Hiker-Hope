@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-My name's Nadezhda and I am a frontend developer with extensive commercial experience spanning 7+ years (React + Typescript apps). 
-
-I have a background of working in cross-functional teams in startup companies with a fast feature delivery pace as well as big projects with a culture of thorough working through technological solutions.
-
-I always take full ownership of the project in every stage of development employing the best practices to bring the most value to the product. 
-
-I have constantly demonstrated eagerness to take on new challenges and explore, having launched products from a content creation/feed platform to edtech games and web3 apps.
+My name's Nadezhda and I am a senior frontend developer with 7+ years of building React and TypeScript applications across
+SaaS, edtech, and marketplace products with 1M+ DAU. I own features end-to-end – from product definition and technical requirements to implementation, testing, automation, deployment and production monitoring. I thrive in cross functional teams working closely with
+backend devs, product managers and designers to ship complex features and know the product
+not only from the frontend point of view but from its overall architecture and value.
 
 
-You can find more on my experinece on [LinkedIn](https://www.linkedin.com/in/nadezhda-lkn/) and contact me there
+
+You can find more on my experience on [LinkedIn](https://www.linkedin.com/in/nadezhda-lkn/) and contact me there
 
 Here're some technologies I mainly work with (_also just adding them in here to liven the page up a bit_):
 
