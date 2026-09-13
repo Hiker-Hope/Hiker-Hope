@@ -9,7 +9,7 @@ not only from the frontend point of view but from its overall architecture and v
 
 You can find more on my experience on [LinkedIn](https://www.linkedin.com/in/nadezhda-lkn/) and contact me there
 
-Here're some technologies I mainly work with (_also just adding them in here to liven the page up a bit_):
+Here're some technologies I mainly work with:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -18,7 +18,7 @@ Here're some technologies I mainly work with (_also just adding them in here to 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white)
-![stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
 
 Other daily tools:
