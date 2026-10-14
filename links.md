@@ -11,6 +11,7 @@ You can count on me both when you need a new complex feature within a limited ti
 
 More details on my experience:
 - on my [LinkedIn profile](https://www.linkedin.com/in/nadezhda-lkn/) - feel free to contact me there
+- see my activity on [GitHub](https://github.com/Hiker-Hope)
 - check out the [confirmed recommendations](https://www.linkedin.com/in/nadezhda-lkn/details/recommendations/) from my colleagues
 
 Additional certifications:
